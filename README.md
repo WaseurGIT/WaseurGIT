@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋! My name is Md. Waseur Rahman and I'm a passionate front end web developer, from Dhaka, Bangladesh. Currently I am studying in Bangladesh University of Business and Technology(BUBT).</h3>
+<h3 align="left">Hi 👋! My name is Md. Waseur Rahman and I'm a passionate Front-End Web Developer, from Dhaka, Bangladesh. Currently I am studying in Bangladesh University of Business and Technology(BUBT).</h3>
 
 ###
 
